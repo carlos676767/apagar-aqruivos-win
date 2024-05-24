@@ -2,6 +2,8 @@
 
 Este programa foi desenvolvido para automatizar a limpeza de arquivos temporários em seu dispositivo computador, facilitando a vida de quem precisa manter o sistema limpo e organizado com apenas um arquivo de lote (.bat).
 
+acesse: (https://github.com/carlos676767/apagar-aqruivos-win/tree/main)
+
 ## Como Usar
 
 1. Baixe o arquivo `app.bat` e coloque-o em uma localização conveniente do seu computador.
