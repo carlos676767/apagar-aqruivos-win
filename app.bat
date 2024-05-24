@@ -1,0 +1,3 @@
+@echo off
+echo Executando o script Node.js...
+start /wait node script.cjs
